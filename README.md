@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shivangi Maurya</h1>
+<h3 align="center">Aspiring Data Analyst | Web Developer | BCA Student</h3>
 
-<!--
-**mauryashivangi271/mauryashivangi271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about Data Analytics, Web Development, and solving real-world problems through technology.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 BCA Student
+- 📊 Aspiring Data Analyst
+- 💻 Learning PHP, Python, SQL & MySQL
+- 🌱 Currently exploring Power BI and Data Visualization
+- 🚀 Building real-world projects
+- 📍 Azamgarh, Uttar Pradesh, India
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- Python
+- SQL
+- MySQL
+- Git & GitHub
+- Power BI
+
+---
+
+## 📂 Featured Projects
+
+- 🏥 Hospital Management System
+- 📊 Smart Business Analytics
+- 🌐 Portfolio Website
+- 📈 Data Analysis Projects
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/shivangi-maurya-a86810377
+- 📧 Email: mauryashivangi271@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
