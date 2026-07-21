@@ -56,11 +56,6 @@ Passionate about Data Analytics, Web Development, and building real-world projec
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=mauryashivangi271&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
