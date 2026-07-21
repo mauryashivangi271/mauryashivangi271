@@ -68,8 +68,10 @@ Passionate about Data Analytics, Web Development, and building real-world projec
 
 ## 🏆 GitHub Trophies
 
+## 📈 Contribution Graph
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mauryashivangi271&theme=onedark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mauryashivangi271&theme=github-dark" />
 </p>
 
 ---
