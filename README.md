@@ -64,9 +64,6 @@ Passionate about Data Analytics, Web Development, and building real-world projec
 
 ---
 
-# 🏆 GitHub Trophies
-
-## 🏆 GitHub Trophies
 
 ## 📈 Contribution Graph
 
