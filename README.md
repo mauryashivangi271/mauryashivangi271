@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:A855F7,100:EC4899&height=230&section=header&text=Shivangi%20Maurya&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20BCA%20Student&descAlignY=58&descSize=20" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:A855F7,100:EC4899&height=230&section=header&text=Shivangi%20Maurya&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=BCA%20Student%20%7C%20Aspiring%20Data%20Analyst&descAlignY=58&descSize=20" width="100%">
 
-<h1>👋 Hi, I'm Shivangi Maurya</h1>
+<br>
 
-<h3>🎓 BCA Student &nbsp; | &nbsp; 📊 Aspiring Data Analyst &nbsp; | &nbsp; 💼 Business Intelligence Enthusiast</h3>
+# 👋 Hi, I'm Shivangi Maurya
 
-<p><b>🚀 Turning Data into Insights & Ideas into Projects</b></p>
+### 🎓 BCA Student | 📊 Aspiring Data Analyst | 💼 Business Intelligence Enthusiast
+
+### 🚀 Turning Data into Meaningful Insights
 
 <br>
 
@@ -28,11 +30,6 @@
 
 # 👩‍💻 About Me
 
-<table>
-<tr>
-
-<td width="60%">
-
 ### 🎓 Who Am I?
 
 I am a **BCA Student** and an **Aspiring Data Analyst** with an interest in **Business Intelligence and Data Analytics**.
@@ -51,10 +48,6 @@ I enjoy learning new technologies, solving problems, analyzing data and building
 
 📍 **India**
 
-</td>
-
-<td width="40%">
-
 ### 🌱 Currently Learning
 
 📊 Advanced Data Analytics  
@@ -62,16 +55,11 @@ I enjoy learning new technologies, solving problems, analyzing data and building
 🗄️ SQL Optimization  
 🐍 Python for Data Science  
 🤖 Machine Learning Basics  
-💼 Business Intelligence  
+💼 Business Intelligence
 
 ### 🎯 Career Goal
 
 **Become a skilled Data Analyst and build a strong career in Data Analytics & Business Intelligence.**
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -85,7 +73,7 @@ I enjoy learning new technologies, solving problems, analyzing data and building
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </p>
 
@@ -105,17 +93,9 @@ I enjoy learning new technologies, solving problems, analyzing data and building
 
 # 📊 Featured Data Analytics Project
 
-<div align="center">
-
 ## 🛒 E-Commerce Sales Analysis Dashboard
 
 **Complete End-to-End Data Analytics Project**
-
-</div>
-
-<table>
-<tr>
-<td>
 
 ### 📌 Project Overview
 
@@ -126,7 +106,7 @@ A complete data analytics project analyzing **e-commerce sales data** to identif
 📦 Product Performance  
 👥 Customer Segments  
 🏷️ Category Performance  
-💡 Business Opportunities  
+💡 Business Opportunities
 
 ### 🔄 Project Workflow
 
@@ -151,14 +131,12 @@ A complete data analytics project analyzing **e-commerce sales data** to identif
 - ✅ Business Insights
 - ✅ Business Recommendations
 
-</td>
-</tr>
-</table>
+### 🔗 Project
 
 <div align="center">
 
 <a href="https://github.com/mauryashivangi271/ecommerce-sales-analysis-dashboard">
-<img src="https://img.shields.io/badge/🔗%20VIEW%20PROJECT-8e44ad?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/🔗%20VIEW%20E--COMMERCE%20PROJECT-8e44ad?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -166,12 +144,6 @@ A complete data analytics project analyzing **e-commerce sales data** to identif
 ---
 
 # 💻 Other Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
 
 ## 🏥 Hospital Management System
 
@@ -191,9 +163,7 @@ Hospital Management System developed using:
 📅 Appointment Management  
 🗄️ Database Management
 
-</td>
-
-<td width="50%">
+---
 
 ## 📊 Smart Business Analytics
 
@@ -206,13 +176,7 @@ Business analytics dashboard for understanding business performance and key busi
 📉 KPI Tracking  
 💡 Business Insights
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+---
 
 ## 🌐 Portfolio Website
 
@@ -223,15 +187,17 @@ Personal portfolio website showcasing:
 - Education
 - Learning Journey
 
-<br>
+### 🌐 Live Portfolio
 
-<a href="https://mauryashivangi271.github.io/Shivangi-Portfolio/">
-<img src="https://img.shields.io/badge/🌐%20VIEW%20PORTFOLIO-8e44ad?style=for-the-badge&logo=googlechrome&logoColor=white">
+<div align="center">
+
+<a href="https://shivangi-portfolio-flax.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-8e44ad?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-</td>
+</div>
 
-<td width="50%">
+---
 
 ## 🐍 Python Projects
 
@@ -243,17 +209,9 @@ Python practice programs and mini projects focused on:
 📊 Data Analysis  
 🧠 Problem Solving
 
-</td>
-
-</tr>
-
-</table>
-
 ---
 
 # 📚 Currently Learning
-
-<div align="center">
 
 | 🌱 Area | 🎯 Focus |
 |---|---|
@@ -265,13 +223,9 @@ Python practice programs and mini projects focused on:
 | 🤖 Machine Learning | Fundamentals |
 | 💼 Business Intelligence | Business Insights |
 
-</div>
-
 ---
 
 # 📈 My Learning Progress
-
-<div align="center">
 
 | Skill | Progress |
 |---|---|
@@ -282,17 +236,33 @@ Python practice programs and mini projects focused on:
 | 📊 Data Analytics | ███████████████░░░░░ 75% |
 | 📈 Power BI | ██████████████░░░░░░ 70% |
 
-</div>
-
 ---
 
 # 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mauryashivangi271&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180">
+<a href="https://github.com/mauryashivangi271">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauryashivangi271&layout=compact&theme=tokyonight&hide_border=true" height="180">
+<img src="https://img.shields.io/github/followers/mauryashivangi271?label=GitHub%20Followers&style=for-the-badge">
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/mauryashivangi271?tab=repositories">
+
+<img src="https://img.shields.io/badge/📂%20REPOSITORIES-6C5CE7?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/mauryashivangi271?tab=stars">
+
+<img src="https://img.shields.io/badge/⭐%20STARRED%20PROJECTS-F2C811?style=for-the-badge&logo=github&logoColor=black">
+
+</a>
 
 </div>
 
@@ -302,7 +272,19 @@ Python practice programs and mini projects focused on:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mauryashivangi271&theme=tokyonight&hide_border=true&border_radius=10" width="70%">
+<a href="https://github.com/mauryashivangi271">
+
+<img src="https://img.shields.io/badge/🔥%20GITHUB%20ACTIVITY-VIEW%20PROFILE-EC4899?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/mauryashivangi271?tab=repositories">
+
+<img src="https://img.shields.io/badge/📊%20VIEW%20MY%20ACTIVITY-8e44ad?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
 
 </div>
 
@@ -312,7 +294,19 @@ Python practice programs and mini projects focused on:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mauryashivangi271&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="90%">
+<a href="https://github.com/mauryashivangi271">
+
+<img src="https://img.shields.io/badge/🏆%20EXPLORE%20MY%20GITHUB%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/mauryashivangi271?tab=repositories">
+
+<img src="https://img.shields.io/badge/📂%20VIEW%20ALL%20REPOSITORIES-6C5CE7?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
 
 </div>
 
@@ -322,7 +316,11 @@ Python practice programs and mini projects focused on:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mauryashivangi271&bg_color=0d1117&color=a855f7&line=ec4899&point=ffffff&area=true&hide_border=true" width="100%">
+<a href="https://github.com/mauryashivangi271">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mauryashivangi271&theme=tokyo-night&hide_border=true&area=true" width="100%">
+
+</a>
 
 </div>
 
@@ -362,26 +360,42 @@ I'm interested in opportunities where I can:
 
 <div align="center">
 
+### 📧 Email
+
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mauryashivangi271@gmail.com&su=Hello%20Shivangi&body=Hi%20Shivangi%2C%0A%0AI%20found%20your%20profile%20on%20GitHub.">
+
 <img src="https://img.shields.io/badge/📧%20EMAIL%20ME-mauryashivangi271%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+
 </a>
 
-&nbsp;&nbsp;
+<br><br>
+
+### 💼 LinkedIn
 
 <a href="https://www.linkedin.com/in/shivangi-maurya19/">
+
 <img src="https://img.shields.io/badge/💼%20LINKEDIN-Shivangi%20Maurya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+
 </a>
 
-&nbsp;&nbsp;
+<br><br>
+
+### 🐙 GitHub
 
 <a href="https://github.com/mauryashivangi271">
+
 <img src="https://img.shields.io/badge/🐙%20GITHUB-mauryashivangi271-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
-&nbsp;&nbsp;
+<br><br>
 
-<a href="https://mauryashivangi271.github.io/Shivangi-Portfolio/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-VISIT%20WEBSITE-8e44ad?style=for-the-badge&logo=googlechrome&logoColor=white">
+### 🌐 Portfolio
+
+<a href="https://shivangi-portfolio-flax.vercel.app/">
+
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-VISIT%20WEBSITE-8e44ad?style=for-the-badge&logo=vercel&logoColor=white">
+
 </a>
 
 </div>
@@ -390,11 +404,7 @@ I'm interested in opportunities where I can:
 
 # 📬 Contact
 
-<div align="center">
-
 ### 💜 Let's Connect & Build Something Amazing!
-
-<br>
 
 📧 **Email:** [mauryashivangi271@gmail.com](mailto:mauryashivangi271@gmail.com)
 
@@ -402,9 +412,7 @@ I'm interested in opportunities where I can:
 
 🐙 **GitHub:** [mauryashivangi271](https://github.com/mauryashivangi271)
 
-🌐 **Portfolio:** [View My Portfolio](https://mauryashivangi271.github.io/Shivangi-Portfolio/)
-
-</div>
+🌐 **Portfolio:** [View My Portfolio](https://shivangi-portfolio-flax.vercel.app/)
 
 ---
 
