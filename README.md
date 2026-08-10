@@ -1,160 +1,71 @@
-<h1 align="center">Hi 👋, I'm Shivangi Maurya</h1>
+<!-- ========================= HEADER ========================= -->
 
-<h3 align="center">
-Aspiring Data Analyst | BCA Student | Web Developer
-</h3>
+<div align="center">
 
-<p align="center">
-I am passionate about Data Analytics, SQL, Python, and building real-world technology projects that solve business problems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:A855F7,100:EC4899&height=220&section=header&text=Shivangi%20Maurya&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20BCA%20Student&descAlignY=55&descSize=20" width="100%"/>
+
+<h1>👋 Hi, I'm Shivangi Maurya</h1>
+
+<h3>📊 Aspiring Data Analyst &nbsp;|&nbsp; 💻 Web Developer &nbsp;|&nbsp; 🎓 BCA Student</h3>
+
+<p>
+Turning <b>Data into Insights</b> and <b>Ideas into Projects</b> 🚀
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mauryashivangi271&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<br>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Data%20Analyst-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" />
-</p>
+<a href="https://github.com/mauryashivangi271">
+<img src="https://komarev.com/ghpvc/?username=mauryashivangi271&label=PROFILE%20VIEWS&color=8e44ad&style=for-the-badge" alt="Profile Views"/>
+</a>
+
+<a href="https://github.com/mauryashivangi271?tab=followers">
+<img src="https://img.shields.io/github/followers/mauryashivangi271?label=FOLLOWERS&style=for-the-badge&color=a855f7" alt="Followers"/>
+</a>
+
+<a href="https://github.com/mauryashivangi271?tab=repositories">
+<img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-ec4899?style=for-the-badge" alt="Open To Opportunities"/>
+</a>
+
+</div>
+
+<br>
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 BCA Student
+<table>
+<tr>
 
-📊 Aspiring Data Analyst with interest in Business Intelligence
+<td width="60%">
 
-🐍 Learning Python, SQL, Excel & Power BI
+### Hey there! 👋
 
-💻 Experience in Web Development using PHP, MySQL, HTML, CSS & JavaScript
+I'm **Shivangi Maurya**, a BCA student passionate about **Data Analytics, Business Intelligence and Web Development**.
 
-🚀 Building real-world projects and improving problem-solving skills
+I enjoy working with data, discovering patterns, solving problems and building practical projects that turn raw information into meaningful insights.
 
-📍 India
+### 🎯 What I Do
 
-📧 Email: **[mauryashivangi271@gmail.com](mailto:mauryashivangi271@gmail.com)**
+- 📊 Analyze data and discover business insights
+- 🐍 Work with Python, Pandas and NumPy
+- 🗄️ Write SQL queries using MySQL
+- 📈 Create dashboards using Power BI
+- 📗 Analyze data using Microsoft Excel
+- 💻 Build web applications using PHP & MySQL
+- 🚀 Build real-world projects
+- 🧠 Continuously improve my problem-solving skills
 
----
+</td>
 
-# 🛠️ Skills & Technologies
+<td width="40%">
 
-### Data Analytics
+### 🌱 Currently Learning
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* SQL
-* MySQL
-* Excel
-* Power BI
-
-### Web Development
-
-* HTML5
-* CSS3
-* Bootstrap
-* JavaScript
-* PHP
-* MySQL
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
-
----
-
-# 📊 Featured Data Analytics Project
-
-## 🛒 E-Commerce Sales Analysis Dashboard
-
-A complete data analytics project analyzing e-commerce sales data using:
-
-* Python for data cleaning and exploratory analysis
-* SQL for business queries and insights
-* Power BI for interactive dashboard visualization
-
-### Analysis Performed:
-
-✅ Sales trend analysis
-✅ Profit analysis
-✅ Category performance
-✅ Top products analysis
-✅ Customer insights
-✅ Business recommendations
-
----
-
-# 💻 Other Projects
-
-### 🏥 Hospital Management System
-
-Hospital Management System using PHP, MySQL and Bootstrap.
-
-### 📊 Smart Business Analytics
-
-Business analytics dashboard for understanding business performance.
-
-### 🌐 Portfolio Website
-
-Personal portfolio website showcasing skills and projects.
-
-### 🐍 Python Projects
-
-Python practice programs and mini projects.
-
----
-
-# 📚 Currently Learning
-
-🌱 Advanced Data Analytics
-🌱 Power BI Dashboard Development
-🌱 SQL Optimization
-🌱 Python for Data Science
-🌱 Machine Learning Basics
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mauryashivangi271&show_icons=true&theme=github_dark" />
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mauryashivangi271&theme=github-dark" />
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/shivangi-maurya19/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:mauryashivangi271@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! Let's build and learn together 🚀
-</h3>
+```text
+📊 Advanced Data Analytics
+📈 Power BI
+🗄️ Advanced SQL
+🐍 Python for Data Science
+🤖 Machine Learning
+💼 Business Intelligence
