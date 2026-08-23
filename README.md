@@ -34,27 +34,27 @@
 
 I am a **BCA Student** and an **Aspiring Data Analyst** with an interest in **Business Intelligence and Data Analytics**.
 
-I enjoy learning new technologies, solving problems, analyzing data and building real-world projects.
+I enjoy learning new technologies, solving problems, analyzing data, and building real-world projects.
 
 ### 🚀 What I Do
 
-- 🎓 BCA Student
-- 📊 Aspiring Data Analyst with interest in Business Intelligence
-- 🐍 Learning Python, SQL, Excel & Power BI
-- 💻 Experience in Web Development using PHP, MySQL, HTML, CSS & JavaScript
-- 🚀 Building real-world projects
-- 🧠 Improving problem-solving skills
-- 📊 Interested in data-driven decision making
+* 🎓 BCA Student
+* 📊 Aspiring Data Analyst with interest in Business Intelligence
+* 🐍 Learning Python, SQL, Excel & Power BI
+* 💻 Experience in Web Development using PHP, MySQL, HTML, CSS & JavaScript
+* 🚀 Building real-world projects
+* 🧠 Improving problem-solving skills
+* 📊 Interested in data-driven decision making
 
 📍 **India**
 
 ### 🌱 Currently Learning
 
-📊 Advanced Data Analytics  
-📈 Power BI Dashboard Development  
-🗄️ SQL Optimization  
-🐍 Python for Data Science  
-🤖 Machine Learning Basics  
+📊 Advanced Data Analytics
+📈 Power BI Dashboard Development
+🗄️ SQL Optimization
+🐍 Python for Data Science
+🤖 Machine Learning Basics
 💼 Business Intelligence
 
 ### 🎯 Career Goal
@@ -91,7 +91,125 @@ I enjoy learning new technologies, solving problems, analyzing data and building
 
 ---
 
-# 📊 Featured Data Analytics Project
+# 📊 Featured Data Analytics Projects
+
+## 🏦 Bank Customer Churn Analysis
+
+**End-to-End Customer Churn Analytics Project**
+
+### 📌 Project Overview
+
+An end-to-end banking analytics project analyzing **10,000 customer records** to identify churn patterns, high-risk customer segments, and factors associated with customer attrition.
+
+### 🔄 Project Workflow
+
+**Raw Data → Data Cleaning → Python EDA → SQL Analysis → Power BI Dashboard → Business Insights**
+
+### 🔧 Technologies Used
+
+| Technology         | Purpose                         |
+| ------------------ | ------------------------------- |
+| 🐍 Python / Pandas | Data Cleaning & EDA             |
+| 🗄️ MySQL          | Business Analysis & SQL Queries |
+| 📊 Power BI        | Interactive Dashboard           |
+| 📗 Excel           | Data Handling                   |
+| 🐙 Git & GitHub    | Version Control                 |
+
+### 📈 Analysis Performed
+
+* ✅ Customer Churn Analysis
+* ✅ Churn Rate Analysis
+* ✅ Geography Analysis
+* ✅ Age Group Analysis
+* ✅ Gender Analysis
+* ✅ Active Membership Analysis
+* ✅ Number of Products Analysis
+* ✅ Credit Score Group Analysis
+* ✅ High-Risk Customer Segmentation
+* ✅ Business Recommendations
+
+### 📊 Power BI Dashboard
+
+The dashboard includes:
+
+* Total Customers
+* Churned Customers
+* Churn Rate
+* Average Balance
+* Interactive Geography Filter
+* Gender Filter
+* Active Member Filter
+* Age Group Filter
+
+### 🔗 Project
+
+<div align="center">
+
+<a href="https://github.com/mauryashivangi271/Bank-Customer-Churn-Analysis">
+<img src="https://img.shields.io/badge/🏦%20VIEW%20BANK%20CHURN%20PROJECT-6C5CE7?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## 👥 HR Employee Analytics
+
+**End-to-End HR Attrition Analysis Project**
+
+### 📌 Project Overview
+
+A data analytics project focused on understanding **employee attrition** and identifying patterns related to employee turnover.
+
+The project analyzes employee characteristics and department-level patterns to help understand factors associated with attrition.
+
+### 🔄 Project Workflow
+
+**Raw HR Data → Data Cleaning → Python EDA → Statistical Analysis → SQL Analysis → Business Insights**
+
+### 🔧 Technologies Used
+
+| Technology         | Purpose                  |
+| ------------------ | ------------------------ |
+| 🐍 Python / Pandas | Data Cleaning & Analysis |
+| 📊 Matplotlib      | Data Visualization       |
+| 🗄️ MySQL          | SQL Analysis             |
+| 📗 Excel           | Data Handling            |
+| 🐙 Git & GitHub    | Version Control          |
+
+### 📈 Analysis Performed
+
+* ✅ Employee Attrition Analysis
+* ✅ Department-wise Attrition
+* ✅ Salary Analysis
+* ✅ Overtime Analysis
+* ✅ Job Role Analysis
+* ✅ Experience Analysis
+* ✅ Employee Demographics
+* ✅ Attrition Rate Analysis
+* ✅ Business Insights
+* ✅ HR Recommendations
+
+### 💡 Business Focus
+
+The analysis helps HR teams understand:
+
+* Which departments have higher attrition
+* How overtime relates to employee attrition
+* Which employee groups have higher turnover
+* Which factors may contribute to employee retention challenges
+
+### 🔗 Project
+
+<div align="center">
+
+<a href="https://github.com/mauryashivangi271/HR-Employee-Analytics">
+<img src="https://img.shields.io/badge/👥%20VIEW%20HR%20ANALYTICS%20PROJECT-A855F7?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
 
 ## 🛒 E-Commerce Sales Analysis Dashboard
 
@@ -101,11 +219,11 @@ I enjoy learning new technologies, solving problems, analyzing data and building
 
 A complete data analytics project analyzing **e-commerce sales data** to identify:
 
-📈 Sales Trends  
-💰 Profitability  
-📦 Product Performance  
-👥 Customer Segments  
-🏷️ Category Performance  
+📈 Sales Trends
+💰 Profitability
+📦 Product Performance
+👥 Customer Segments
+🏷️ Category Performance
 💡 Business Opportunities
 
 ### 🔄 Project Workflow
@@ -114,22 +232,22 @@ A complete data analytics project analyzing **e-commerce sales data** to identif
 
 ### 🔧 Technologies Used
 
-| Technology | Purpose |
-|---|---|
-| 🐍 Python | Data Cleaning & Exploratory Data Analysis |
-| 🗄️ SQL / MySQL | Business Queries & Data Analysis |
-| 📊 Power BI | Interactive Dashboard |
-| 📗 Excel | Data Handling & Analysis |
+| Technology      | Purpose                                   |
+| --------------- | ----------------------------------------- |
+| 🐍 Python       | Data Cleaning & Exploratory Data Analysis |
+| 🗄️ SQL / MySQL | Business Queries & Data Analysis          |
+| 📊 Power BI     | Interactive Dashboard                     |
+| 📗 Excel        | Data Handling & Analysis                  |
 
 ### 📈 Analysis Performed
 
-- ✅ Sales Trend Analysis
-- ✅ Profit Analysis
-- ✅ Category Performance
-- ✅ Top Products Analysis
-- ✅ Customer & Segment Analysis
-- ✅ Business Insights
-- ✅ Business Recommendations
+* ✅ Sales Trend Analysis
+* ✅ Profit Analysis
+* ✅ Category Performance
+* ✅ Top Products Analysis
+* ✅ Customer & Segment Analysis
+* ✅ Business Insights
+* ✅ Business Recommendations
 
 ### 🔗 Project
 
@@ -149,18 +267,18 @@ A complete data analytics project analyzing **e-commerce sales data** to identif
 
 Hospital Management System developed using:
 
-- PHP
-- MySQL
-- Bootstrap
-- HTML
-- CSS
-- JavaScript
+* PHP
+* MySQL
+* Bootstrap
+* HTML
+* CSS
+* JavaScript
 
 ### Features
 
-🏥 Patient Management  
-👨‍⚕️ Doctor Management  
-📅 Appointment Management  
+🏥 Patient Management
+👨‍⚕️ Doctor Management
+📅 Appointment Management
 🗄️ Database Management
 
 ---
@@ -171,9 +289,9 @@ Business analytics dashboard for understanding business performance and key busi
 
 ### Focus
 
-📈 Business Performance  
-📊 Data Analysis  
-📉 KPI Tracking  
+📈 Business Performance
+📊 Data Analysis
+📉 KPI Tracking
 💡 Business Insights
 
 ---
@@ -182,10 +300,10 @@ Business analytics dashboard for understanding business performance and key busi
 
 Personal portfolio website showcasing:
 
-- Skills
-- Projects
-- Education
-- Learning Journey
+* Skills
+* Projects
+* Education
+* Learning Journey
 
 ### 🌐 Live Portfolio
 
@@ -203,38 +321,38 @@ Personal portfolio website showcasing:
 
 Python practice programs and mini projects focused on:
 
-🐍 Python Programming  
-🔢 NumPy  
-🐼 Pandas  
-📊 Data Analysis  
+🐍 Python Programming
+🔢 NumPy
+🐼 Pandas
+📊 Data Analysis
 🧠 Problem Solving
 
 ---
 
 # 📚 Currently Learning
 
-| 🌱 Area | 🎯 Focus |
-|---|---|
-| 🐍 Python | Python for Data Science |
-| 🗄️ SQL | Advanced Queries & Optimization |
-| 📊 Power BI | Dashboard Development |
-| 📗 Excel | Advanced Data Analysis |
-| 📈 Data Analytics | Advanced Analytics |
-| 🤖 Machine Learning | Fundamentals |
-| 💼 Business Intelligence | Business Insights |
+| 🌱 Area                  | 🎯 Focus                        |
+| ------------------------ | ------------------------------- |
+| 🐍 Python                | Python for Data Science         |
+| 🗄️ SQL                  | Advanced Queries & Optimization |
+| 📊 Power BI              | Dashboard Development           |
+| 📗 Excel                 | Advanced Data Analysis          |
+| 📈 Data Analytics        | Advanced Analytics              |
+| 🤖 Machine Learning      | Fundamentals                    |
+| 💼 Business Intelligence | Business Insights               |
 
 ---
 
 # 📈 My Learning Progress
 
-| Skill | Progress |
-|---|---|
-| 🐍 Python | █████████████████░░░ 85% |
-| 🗄️ SQL | █████████████████░░░ 85% |
-| 📗 Excel | ████████████████░░░░ 80% |
+| Skill              | Progress                 |
+| ------------------ | ------------------------ |
+| 🐍 Python          | █████████████████░░░ 85% |
+| 🗄️ SQL            | █████████████████░░░ 85% |
+| 📗 Excel           | ████████████████░░░░ 80% |
 | 💻 Web Development | ████████████████░░░░ 80% |
-| 📊 Data Analytics | ███████████████░░░░░ 75% |
-| 📈 Power BI | ██████████████░░░░░░ 70% |
+| 📊 Data Analytics  | ███████████████░░░░░ 75% |
+| 📈 Power BI        | ██████████████░░░░░░ 70% |
 
 ---
 
@@ -248,7 +366,7 @@ Python practice programs and mini projects focused on:
 
 </a>
 
-&nbsp;&nbsp;
+  
 
 <a href="https://github.com/mauryashivangi271?tab=repositories">
 
@@ -256,7 +374,7 @@ Python practice programs and mini projects focused on:
 
 </a>
 
-&nbsp;&nbsp;
+  
 
 <a href="https://github.com/mauryashivangi271?tab=stars">
 
@@ -268,7 +386,7 @@ Python practice programs and mini projects focused on:
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 GitHub Activity
 
 <div align="center">
 
@@ -328,17 +446,19 @@ Python practice programs and mini projects focused on:
 
 # 🎯 My 2026 Goals
 
-- [x] 🐍 Learn Python Fundamentals
-- [x] 🗄️ Learn SQL & MySQL
-- [x] 📊 Build E-Commerce Analytics Project
-- [x] 📈 Create Power BI Dashboard
-- [x] 🌐 Build Personal Portfolio
-- [ ] 📊 Build More Data Analytics Projects
-- [ ] 🗄️ Improve Advanced SQL
-- [ ] 🐍 Master Python for Data Analysis
-- [ ] 🤖 Learn Machine Learning
-- [ ] 💼 Get a Data Analyst Internship
-- [ ] 🌍 Contribute to Open Source
+* [x] 🐍 Learn Python Fundamentals
+* [x] 🗄️ Learn SQL & MySQL
+* [x] 📊 Build E-Commerce Analytics Project
+* [x] 📈 Create Power BI Dashboard
+* [x] 👥 Build HR Employee Analytics Project
+* [x] 🏦 Build Bank Customer Churn Analysis Project
+* [x] 🌐 Build Personal Portfolio
+* [ ] 📊 Build More Data Analytics Projects
+* [ ] 🗄️ Improve Advanced SQL
+* [ ] 🐍 Master Python for Data Analysis
+* [ ] 🤖 Learn Machine Learning
+* [ ] 💼 Get a Data Analyst Internship
+* [ ] 🌍 Contribute to Open Source
 
 ---
 
@@ -346,12 +466,12 @@ Python practice programs and mini projects focused on:
 
 I'm interested in opportunities where I can:
 
-📊 Work with real-world data  
-📈 Build dashboards and reports  
-🗄️ Write SQL queries and perform analysis  
-🐍 Use Python for data cleaning and analysis  
-💡 Solve business problems using data  
-🚀 Learn from experienced professionals  
+📊 Work with real-world data
+📈 Build dashboards and reports
+🗄️ Write SQL queries and perform analysis
+🐍 Use Python for data cleaning and analysis
+💡 Solve business problems using data
+🚀 Learn from experienced professionals
 🤝 Collaborate on meaningful projects
 
 ---
