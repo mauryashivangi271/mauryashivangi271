@@ -4,13 +4,9 @@
 
 <br>
 
-# 👋 Hi, I'm Shivangi Maurya
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Meaningful+Insights;Building+Real-World+Analytics+Projects;Exploring+Business+Intelligence" alt="Typing SVG">
 
-### 🎓 BCA Student | 📊 Aspiring Data Analyst | 💼 Business Intelligence Enthusiast
-
-### 🚀 Turning Data into Meaningful Insights
-
-<br>
+<br><br>
 
 <a href="https://github.com/mauryashivangi271">
 <img src="https://komarev.com/ghpvc/?username=mauryashivangi271&label=PROFILE%20VIEWS&color=8e44ad&style=for-the-badge">
@@ -24,42 +20,84 @@
 <img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-ec4899?style=for-the-badge">
 </a>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-6C5CE7?style=for-the-badge">
+<img src="https://img.shields.io/badge/Business%20Intelligence-A855F7?style=for-the-badge">
+<img src="https://img.shields.io/badge/Power%20BI-EC4899?style=for-the-badge">
+
+</div>
+
+---
+
+# 👋 Hi, I'm Shivangi Maurya
+
+<div align="center">
+
+### 🎓 BCA Student
+
+### 📊 Aspiring Data Analyst
+
+### 💼 Business Intelligence Enthusiast
+
+**🚀 Turning Data into Meaningful Insights**
+
 </div>
 
 ---
 
 # 👩‍💻 About Me
 
-### 🎓 Who Am I?
+I am a **BCA Student** and an **Aspiring Data Analyst** with a strong interest in **Data Analytics, Business Intelligence and Data-Driven Decision Making**.
 
-I am a **BCA Student** and an **Aspiring Data Analyst** with an interest in **Business Intelligence and Data Analytics**.
-
-I enjoy learning new technologies, solving problems, analyzing data, and building real-world projects.
+I enjoy working with data, discovering patterns, solving business problems and building real-world analytics projects.
 
 ### 🚀 What I Do
 
 * 🎓 BCA Student
-* 📊 Aspiring Data Analyst with interest in Business Intelligence
-* 🐍 Learning Python, SQL, Excel & Power BI
-* 💻 Experience in Web Development using PHP, MySQL, HTML, CSS & JavaScript
+* 📊 Aspiring Data Analyst
+* 🐍 Python & Pandas for Data Analysis
+* 🗄️ SQL & MySQL for Business Analysis
+* 📊 Power BI Dashboard Development
+* 📗 Excel Data Analysis
+* 📈 Exploratory Data Analysis
+* 💡 Business Insights & Recommendations
+* 💻 Web Development using PHP, MySQL, HTML, CSS & JavaScript
 * 🚀 Building real-world projects
-* 🧠 Improving problem-solving skills
-* 📊 Interested in data-driven decision making
 
 📍 **India**
 
-### 🌱 Currently Learning
+---
 
-📊 Advanced Data Analytics
-📈 Power BI Dashboard Development
-🗄️ SQL Optimization
-🐍 Python for Data Science
-🤖 Machine Learning Basics
-💼 Business Intelligence
+# 🌱 Currently Learning
 
-### 🎯 Career Goal
+<div align="center">
 
-**Become a skilled Data Analyst and build a strong career in Data Analytics & Business Intelligence.**
+| 📚 Learning              | 🎯 Focus                          |
+| ------------------------ | --------------------------------- |
+| 🐍 Python                | Data Analysis & Data Science      |
+| 🗄️ SQL                  | Advanced Queries & Optimization   |
+| 📊 Power BI              | Interactive Dashboard Development |
+| 📗 Excel                 | Advanced Data Analysis            |
+| 📈 Statistics            | Data Interpretation               |
+| 🤖 Machine Learning      | Fundamentals                      |
+| 💼 Business Intelligence | Data-Driven Decisions             |
+
+</div>
+
+---
+
+# 🎯 Career Goal
+
+<div align="center">
+
+### 🚀 Become a skilled Data Analyst
+
+### 📊 Build expertise in Data Analytics & Business Intelligence
+
+### 💼 Work on real-world business problems using data
+
+</div>
 
 ---
 
@@ -67,53 +105,94 @@ I enjoy learning new technologies, solving problems, analyzing data, and buildin
 
 ## 📊 Data Analytics
 
-<p>
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark">
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-</p>
+
+</div>
+
+---
 
 ## 💻 Web Development
 
-<p>
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql&theme=dark">
-</p>
+
+</div>
+
+---
 
 ## 🧰 Tools
 
-<p>
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark">
-</p>
+
+</div>
 
 ---
 
 # 📊 Featured Data Analytics Projects
 
+<div align="center">
+
+### 🚀 End-to-End Data Analytics Portfolio
+
+**Python → SQL → Power BI → Business Insights**
+
+</div>
+
+---
+
 ## 🏦 Bank Customer Churn Analysis
 
-**End-to-End Customer Churn Analytics Project**
+<div align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-Data%20Cleaning-6C5CE7?style=for-the-badge">
+<img src="https://img.shields.io/badge/MYSQL-SQL%20Analysis-A855F7?style=for-the-badge">
+<img src="https://img.shields.io/badge/POWER%20BI-Dashboard-F2C811?style=for-the-badge">
+<img src="https://img.shields.io/badge/10K-Customers-EC4899?style=for-the-badge">
+
+</div>
 
 ### 📌 Project Overview
 
-An end-to-end banking analytics project analyzing **10,000 customer records** to identify churn patterns, high-risk customer segments, and factors associated with customer attrition.
+An end-to-end banking analytics project analyzing **10,000 customer records** to identify:
 
-### 🔄 Project Workflow
+* 📉 Customer churn patterns
+* 🌍 Geography-wise churn
+* 👥 Demographic patterns
+* 📊 Customer activity
+* 💳 Product usage
+* 🎯 High-risk customer segments
 
-**Raw Data → Data Cleaning → Python EDA → SQL Analysis → Power BI Dashboard → Business Insights**
+### 🔄 Workflow
 
-### 🔧 Technologies Used
-
-| Technology         | Purpose                         |
-| ------------------ | ------------------------------- |
-| 🐍 Python / Pandas | Data Cleaning & EDA             |
-| 🗄️ MySQL          | Business Analysis & SQL Queries |
-| 📊 Power BI        | Interactive Dashboard           |
-| 📗 Excel           | Data Handling                   |
-| 🐙 Git & GitHub    | Version Control                 |
+```text
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Python EDA
+   ↓
+SQL Business Analysis
+   ↓
+Power BI Dashboard
+   ↓
+Business Insights
+   ↓
+Recommendations
+```
 
 ### 📈 Analysis Performed
 
@@ -124,24 +203,23 @@ An end-to-end banking analytics project analyzing **10,000 customer records** to
 * ✅ Gender Analysis
 * ✅ Active Membership Analysis
 * ✅ Number of Products Analysis
-* ✅ Credit Score Group Analysis
+* ✅ Credit Score Analysis
+* ✅ Balance Analysis
 * ✅ High-Risk Customer Segmentation
 * ✅ Business Recommendations
 
-### 📊 Power BI Dashboard
+### 📊 Dashboard KPIs
 
-The dashboard includes:
-
-* Total Customers
-* Churned Customers
-* Churn Rate
-* Average Balance
-* Interactive Geography Filter
-* Gender Filter
-* Active Member Filter
-* Age Group Filter
-
-### 🔗 Project
+```text
+👥 Total Customers
+📉 Churned Customers
+📊 Churn Rate
+💰 Average Balance
+🌍 Geography
+👤 Gender
+⚡ Active Members
+🎂 Age Groups
+```
 
 <div align="center">
 
@@ -155,27 +233,40 @@ The dashboard includes:
 
 ## 👥 HR Employee Analytics
 
-**End-to-End HR Attrition Analysis Project**
+<div align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-EDA-6C5CE7?style=for-the-badge">
+<img src="https://img.shields.io/badge/PANDAS-Analysis-A855F7?style=for-the-badge">
+<img src="https://img.shields.io/badge/MATPLOTLIB-Visualization-EC4899?style=for-the-badge">
+<img src="https://img.shields.io/badge/HR-Analytics-8e44ad?style=for-the-badge">
+
+</div>
 
 ### 📌 Project Overview
 
-A data analytics project focused on understanding **employee attrition** and identifying patterns related to employee turnover.
+An end-to-end HR analytics project focused on understanding **employee attrition** and identifying factors associated with employee turnover.
 
-The project analyzes employee characteristics and department-level patterns to help understand factors associated with attrition.
+### 🔄 Workflow
 
-### 🔄 Project Workflow
-
-**Raw HR Data → Data Cleaning → Python EDA → Statistical Analysis → SQL Analysis → Business Insights**
-
-### 🔧 Technologies Used
-
-| Technology         | Purpose                  |
-| ------------------ | ------------------------ |
-| 🐍 Python / Pandas | Data Cleaning & Analysis |
-| 📊 Matplotlib      | Data Visualization       |
-| 🗄️ MySQL          | SQL Analysis             |
-| 📗 Excel           | Data Handling            |
-| 🐙 Git & GitHub    | Version Control          |
+```text
+Raw HR Dataset
+      ↓
+Data Inspection
+      ↓
+Data Cleaning
+      ↓
+Feature Preparation
+      ↓
+Exploratory Data Analysis
+      ↓
+Correlation Analysis
+      ↓
+Data Visualization
+      ↓
+Business Insights
+      ↓
+HR Recommendations
+```
 
 ### 📈 Analysis Performed
 
@@ -186,20 +277,22 @@ The project analyzes employee characteristics and department-level patterns to h
 * ✅ Job Role Analysis
 * ✅ Experience Analysis
 * ✅ Employee Demographics
+* ✅ Job Satisfaction Analysis
 * ✅ Attrition Rate Analysis
-* ✅ Business Insights
+* ✅ Correlation Analysis
 * ✅ HR Recommendations
 
 ### 💡 Business Focus
 
-The analysis helps HR teams understand:
+The project helps understand:
 
-* Which departments have higher attrition
-* How overtime relates to employee attrition
-* Which employee groups have higher turnover
-* Which factors may contribute to employee retention challenges
-
-### 🔗 Project
+* 🏢 Which departments have higher attrition
+* ⏰ How overtime relates to attrition
+* 👔 Which job roles have higher turnover
+* 💰 Whether income is associated with attrition
+* 🎂 Which age groups have higher attrition
+* 😊 Whether job satisfaction relates to attrition
+* 📅 How employee tenure relates to turnover
 
 <div align="center">
 
@@ -213,11 +306,18 @@ The analysis helps HR teams understand:
 
 ## 🛒 E-Commerce Sales Analysis Dashboard
 
-**Complete End-to-End Data Analytics Project**
+<div align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-EDA-6C5CE7?style=for-the-badge">
+<img src="https://img.shields.io/badge/MYSQL-SQL-A855F7?style=for-the-badge">
+<img src="https://img.shields.io/badge/POWER%20BI-Dashboard-F2C811?style=for-the-badge">
+<img src="https://img.shields.io/badge/EXCEL-Analysis-217346?style=for-the-badge">
+
+</div>
 
 ### 📌 Project Overview
 
-A complete data analytics project analyzing **e-commerce sales data** to identify:
+A complete e-commerce analytics project focused on identifying:
 
 📈 Sales Trends
 💰 Profitability
@@ -226,18 +326,23 @@ A complete data analytics project analyzing **e-commerce sales data** to identif
 🏷️ Category Performance
 💡 Business Opportunities
 
-### 🔄 Project Workflow
+### 🔄 Workflow
 
-**Raw Data → Data Cleaning → EDA → SQL Analysis → Power BI Dashboard → Business Insights**
-
-### 🔧 Technologies Used
-
-| Technology      | Purpose                                   |
-| --------------- | ----------------------------------------- |
-| 🐍 Python       | Data Cleaning & Exploratory Data Analysis |
-| 🗄️ SQL / MySQL | Business Queries & Data Analysis          |
-| 📊 Power BI     | Interactive Dashboard                     |
-| 📗 Excel        | Data Handling & Analysis                  |
+```text
+Raw Sales Data
+      ↓
+Data Cleaning
+      ↓
+Exploratory Data Analysis
+      ↓
+SQL Analysis
+      ↓
+Power BI Dashboard
+      ↓
+Business Insights
+      ↓
+Recommendations
+```
 
 ### 📈 Analysis Performed
 
@@ -249,12 +354,10 @@ A complete data analytics project analyzing **e-commerce sales data** to identif
 * ✅ Business Insights
 * ✅ Business Recommendations
 
-### 🔗 Project
-
 <div align="center">
 
 <a href="https://github.com/mauryashivangi271/ecommerce-sales-analysis-dashboard">
-<img src="https://img.shields.io/badge/🔗%20VIEW%20E--COMMERCE%20PROJECT-8e44ad?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/🛒%20VIEW%20E--COMMERCE%20PROJECT-8e44ad?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -265,7 +368,7 @@ A complete data analytics project analyzing **e-commerce sales data** to identif
 
 ## 🏥 Hospital Management System
 
-Hospital Management System developed using:
+A web-based hospital management system developed using:
 
 * PHP
 * MySQL
@@ -285,9 +388,7 @@ Hospital Management System developed using:
 
 ## 📊 Smart Business Analytics
 
-Business analytics dashboard for understanding business performance and key business metrics.
-
-### Focus
+Business analytics dashboard focused on:
 
 📈 Business Performance
 📊 Data Analysis
@@ -300,12 +401,10 @@ Business analytics dashboard for understanding business performance and key busi
 
 Personal portfolio website showcasing:
 
-* Skills
-* Projects
-* Education
-* Learning Journey
-
-### 🌐 Live Portfolio
+* 🎓 Education
+* 🛠️ Skills
+* 📊 Projects
+* 🚀 Learning Journey
 
 <div align="center">
 
@@ -317,33 +416,40 @@ Personal portfolio website showcasing:
 
 ---
 
-## 🐍 Python Projects
+# 🐍 Python Projects
 
-Python practice programs and mini projects focused on:
+Python practice and mini projects focused on:
 
 🐍 Python Programming
 🔢 NumPy
 🐼 Pandas
 📊 Data Analysis
+📈 Data Visualization
 🧠 Problem Solving
 
 ---
 
 # 📚 Currently Learning
 
+<div align="center">
+
 | 🌱 Area                  | 🎯 Focus                        |
 | ------------------------ | ------------------------------- |
-| 🐍 Python                | Python for Data Science         |
+| 🐍 Python                | Data Analysis & Data Science    |
 | 🗄️ SQL                  | Advanced Queries & Optimization |
 | 📊 Power BI              | Dashboard Development           |
 | 📗 Excel                 | Advanced Data Analysis          |
-| 📈 Data Analytics        | Advanced Analytics              |
+| 📈 Statistics            | Data Interpretation             |
 | 🤖 Machine Learning      | Fundamentals                    |
 | 💼 Business Intelligence | Business Insights               |
+
+</div>
 
 ---
 
 # 📈 My Learning Progress
+
+<div align="center">
 
 | Skill              | Progress                 |
 | ------------------ | ------------------------ |
@@ -354,55 +460,37 @@ Python practice programs and mini projects focused on:
 | 📊 Data Analytics  | ███████████████░░░░░ 75% |
 | 📈 Power BI        | ██████████████░░░░░░ 70% |
 
+</div>
+
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/mauryashivangi271">
+<img src="https://github-readme-stats.vercel.app/api?username=mauryashivangi271&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
 
-<img src="https://img.shields.io/github/followers/mauryashivangi271?label=GitHub%20Followers&style=for-the-badge">
-
-</a>
-
-  
-
-<a href="https://github.com/mauryashivangi271?tab=repositories">
-
-<img src="https://img.shields.io/badge/📂%20REPOSITORIES-6C5CE7?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
-
-  
-
-<a href="https://github.com/mauryashivangi271?tab=stars">
-
-<img src="https://img.shields.io/badge/⭐%20STARRED%20PROJECTS-F2C811?style=for-the-badge&logo=github&logoColor=black">
-
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauryashivangi271&layout=compact&theme=tokyonight&hide_border=true" height="180">
 
 </div>
 
 ---
 
-# 🔥 GitHub Activity
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<a href="https://github.com/mauryashivangi271">
+<img src="https://streak-stats.demolab.com?user=mauryashivangi271&theme=tokyonight&hide_border=true">
 
-<img src="https://img.shields.io/badge/🔥%20GITHUB%20ACTIVITY-VIEW%20PROFILE-EC4899?style=for-the-badge&logo=github&logoColor=white">
+</div>
 
-</a>
+---
 
-<br><br>
+# 📈 GitHub Contribution Graph
 
-<a href="https://github.com/mauryashivangi271?tab=repositories">
+<div align="center">
 
-<img src="https://img.shields.io/badge/📊%20VIEW%20MY%20ACTIVITY-8e44ad?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mauryashivangi271&theme=tokyo-night&hide_border=true&area=true" width="100%">
 
 </div>
 
@@ -412,39 +500,17 @@ Python practice programs and mini projects focused on:
 
 <div align="center">
 
-<a href="https://github.com/mauryashivangi271">
-
-<img src="https://img.shields.io/badge/🏆%20EXPLORE%20MY%20GITHUB%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
-
-<br><br>
-
-<a href="https://github.com/mauryashivangi271?tab=repositories">
-
-<img src="https://img.shields.io/badge/📂%20VIEW%20ALL%20REPOSITORIES-6C5CE7?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
-
-</div>
-
----
-
-# 📊 GitHub Contribution Graph
-
-<div align="center">
-
-<a href="https://github.com/mauryashivangi271">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mauryashivangi271&theme=tokyo-night&hide_border=true&area=true" width="100%">
-
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=mauryashivangi271&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1">
 
 </div>
 
 ---
 
 # 🎯 My 2026 Goals
+
+```text
+████████████████████████████████████████  2026
+```
 
 * [x] 🐍 Learn Python Fundamentals
 * [x] 🗄️ Learn SQL & MySQL
@@ -464,6 +530,12 @@ Python practice programs and mini projects focused on:
 
 # 💼 What I'm Looking For
 
+<div align="center">
+
+### 🔎 Open to Data Analyst / Business Intelligence Opportunities
+
+</div>
+
 I'm interested in opportunities where I can:
 
 📊 Work with real-world data
@@ -476,73 +548,41 @@ I'm interested in opportunities where I can:
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Let's Connect
 
 <div align="center">
 
-### 📧 Email
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mauryashivangi271@gmail.com&su=Hello%20Shivangi&body=Hi%20Shivangi%2C%0A%0AI%20found%20your%20profile%20on%20GitHub.">
-
-<img src="https://img.shields.io/badge/📧%20EMAIL%20ME-mauryashivangi271%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-
+<a href="mailto:mauryashivangi271@gmail.com">
+<img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-<br><br>
-
-### 💼 LinkedIn
 
 <a href="https://www.linkedin.com/in/shivangi-maurya19/">
-
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-Shivangi%20Maurya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-<br><br>
-
-### 🐙 GitHub
 
 <a href="https://github.com/mauryashivangi271">
-
-<img src="https://img.shields.io/badge/🐙%20GITHUB-mauryashivangi271-181717?style=for-the-badge&logo=github&logoColor=white">
-
+<img src="https://img.shields.io/badge/🐙%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<br><br>
-
-### 🌐 Portfolio
-
 <a href="https://shivangi-portfolio-flax.vercel.app/">
-
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-VISIT%20WEBSITE-8e44ad?style=for-the-badge&logo=vercel&logoColor=white">
-
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-8e44ad?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-# 📬 Contact
-
-### 💜 Let's Connect & Build Something Amazing!
-
-📧 **Email:** [mauryashivangi271@gmail.com](mailto:mauryashivangi271@gmail.com)
-
-💼 **LinkedIn:** [Shivangi Maurya](https://www.linkedin.com/in/shivangi-maurya19/)
-
-🐙 **GitHub:** [mauryashivangi271](https://github.com/mauryashivangi271)
-
-🌐 **Portfolio:** [View My Portfolio](https://shivangi-portfolio-flax.vercel.app/)
-
----
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💜 Thanks for visiting my profile!
 
-**Feel free to explore my repositories and projects.**
+### ⭐ Feel free to explore my repositories and projects.
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing+🚀">
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:A855F7,100:EC4899&height=140&section=footer" width="100%">
 
