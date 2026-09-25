@@ -1,57 +1,5 @@
 <div align="center">
 
-<a href="https://github.com/mauryashivangi271"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
-
-<a href="https://www.linkedin.com/in/shivangi-maurya19/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
-
-<a href="https://shivangi-portfolio-flax.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a>
-
-<a href="mailto:mauryashivangi271@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a>
-
-</div>
-
-<div align="center">
-
-💜 Data → Insights → Decisions
-
-Keep learning. Keep building. Keep growing.
-
-</div>
-
-This version is intentionally cleaner than your original. The projects and technical skills now get more attention instead of the README looking like a collection of badges and animations.
-
-thoda css js apply kar ke desigh kar do 
-
-Yes — but one important point: GitHub README.md does not support custom CSS or JavaScript execution. If we put <style> or <script> in a GitHub README, GitHub will sanitize/ignore it.
-
-So for a professional GitHub profile, I’d use HTML + GitHub-supported styling + SVG/badges to create the same kind of polished design without broken CSS/JS.
-
-I can make your README look more like a modern developer portfolio with:
-
-🌌 Dark/purple visual theme
-✨ Hero section
-🎯 Professional intro
-🧩 Skill cards
-🚀 Project cards
-📊 Analytics workflow
-📈 GitHub stats
-💼 Career focus
-🔗 Social/contact buttons
-Much less unnecessary text
-
-If you want actual CSS + JavaScript, that should go into your Next.js portfolio website, not the GitHub README. Your portfolio can have animations, hover effects, glassmorphism, responsive cards, etc.
-
-ok
-
-👍 Great. Then keep the GitHub README clean and professional, and we can put the actual CSS/JS effects into your portfolio website where they will work properly.
-
-Chat paused until usage resets tomorrow at 2:04 AM
-You’ve reached the limit for chats that include files or images. Start a new text-only chat or upgrade to continue now.
-New chat
-Upgrade
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:6C5CE7,100:EC4899&height=250&section=header&text=Shivangi%20Maurya&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=62&descSize=21&animation=fadeIn" width="100%"/>
 
 <br>
