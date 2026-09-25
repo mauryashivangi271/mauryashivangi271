@@ -182,35 +182,7 @@ Recommendations
 Repository:
 https://github.com/mauryashivangi271/ecommerce-sales-analysis-dashboard
 
-🔄 Data Analytics Workflow
-                 ┌──────────────┐
-                 │   Raw Data   │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │ Data Cleaning│
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │ EDA / Python │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │ SQL Analysis │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │ Visualization│
-                 │   Power BI   │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │   Insights   │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │   Decisions  │
-                 └──────────────┘
+
 📊 Analytics Toolkit
 Category	Technologies
 Programming	Python
@@ -356,20 +328,6 @@ analyst = {
 🚀 Build end-to-end analytics projects
 
 <br>
-
-🌱 Currently Learning
-Python for Data Analysis     █████████████████░░░ 85%
-
-Advanced SQL                 █████████████████░░░ 85%
-
-Excel Analytics              ████████████████░░░░ 80%
-
-Data Analytics               ███████████████░░░░░ 75%
-
-Power BI                     ██████████████░░░░░░ 70%
-
-Machine Learning             █████████░░░░░░░░░░░ 45%
-
 </td>
 
 <td width="45%" align="center" valign="middle">
@@ -793,18 +751,6 @@ Business Insights
 
 <div align="center">
 
-╔══════════════════════════════════════════════╗
-║                                              ║
-║       💜 LET'S CONNECT & BUILD TOGETHER      ║
-║                                              ║
-║       📊 Data Analytics                      ║
-║       📈 Business Intelligence               ║
-║       🐍 Python                              ║
-║       🗄️ SQL                                 ║
-║       📊 Power BI                            ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-
 </div>
 
 <div align="center">
@@ -824,5 +770,3 @@ Business Insights
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:6C5CE7,100:EC4899&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
-
-Close
