@@ -1,3 +1,66 @@
+Pasted markdown.md
+File
+make my readme.md professinal and give me full updated code
+
+I reviewed your current README and made it cleaner, more professional, recruiter-friendly, and focused on Data Analytics while keeping your projects, skills, GitHub stats, portfolio, and contact links. Your original README already had strong sections for projects, workflow, skills, and analytics.
+
+Download the full updated README
+
+Download README_professional.md
+
+You can replace your GitHub profile repository's current README.md with this file.
+
+What I improved
+Removed excessive decorative sections and repeated animations
+Made the Data Analyst profile clearer
+Added a professional About Me
+Organized skills into Data Analytics, Web Development, and Tools
+Presented your 3 main analytics projects clearly
+Added a cleaner Analytics Workflow
+Added a professional skills table
+Kept GitHub stats, streak, contribution graph, and trophies
+Kept your LinkedIn, GitHub, Portfolio, and Email
+Improved wording for recruiter readability
+Kept your existing project links and information rather than inventing new projects
+Made the README easier to maintain as you add future projects
+
+Important: I kept the README based on the content you provided rather than silently adding unsupported achievements or technologies. 
+
+README_professional.md
+Document
+i this is more vered remove anything and add enything what u want add so that it looks like proffessional.
+
+Yes — I would make it less decorated and more professional. Your previous README had a lot of animations, badges, repeated sections, progress percentages, and decorative content. For a Data Analyst portfolio, the important things should stand out: who you are, your skills, projects, workflow, GitHub, and contact links.
+
+I created a cleaner professional v2 with:
+
+Removed unnecessary “Data Analytics Universe” section
+Removed fake-looking skill percentage bars
+Removed repeated “What I’m looking for” blocks
+Removed excessive emojis and decorative boxes
+Kept only useful GitHub statistics
+Made your 3 analytics projects the main focus
+Added a clean Analytics Toolkit
+Added a professional Data Analysis Workflow
+Added a concise Current Focus
+Kept your portfolio, LinkedIn, GitHub and email
+Made the overall README look more like a real junior Data Analyst portfolio
+Download this version
+
+Download README_professional_v2.md
+
+This is the version I would use for your GitHub profile.
+
+Your existing README already had the right foundation—especially the three projects and their technology stacks. The main improvement is reducing decoration and increasing professional information density. 
+
+README_professional_v2.md
+Document
+ok give me ful code here
+
+Absolutely. Here is the full README.md code for the professional version. You can copy everything below and paste it directly into your GitHub profile README.md.
+
+Professional GitHub Profile README
+
 <div align="center">
 
 Shivangi Maurya
@@ -171,6 +234,15 @@ Development Tools	Git, GitHub, VS Code, Jupyter
 
 </div>
 
+🎯 Current Focus
+📊 Building stronger end-to-end data analytics projects
+🐍 Improving Python for data analysis
+🗄️ Strengthening SQL and business-oriented querying
+📈 Developing better Power BI dashboards
+📗 Improving advanced Excel analysis
+🤖 Exploring Machine Learning fundamentals
+💼 Preparing for Data Analyst internship opportunities
+🌐 Let's Connect
 
 <div align="center">
 
@@ -273,10 +345,54 @@ analyst = {
     "goal":
         "Become a skilled Data Analyst"
 }
+🚀 What I Do
+
+📊 Analyze real-world datasets
+🐍 Clean & explore data with Python
+🗄️ Write SQL queries for business analysis
+📈 Build Power BI dashboards
+📗 Perform analysis using Excel
+💡 Generate actionable business insights
+🚀 Build end-to-end analytics projects
 
 <br>
 
+🌱 Currently Learning
+Python for Data Analysis     █████████████████░░░ 85%
 
+Advanced SQL                 █████████████████░░░ 85%
+
+Excel Analytics              ████████████████░░░░ 80%
+
+Data Analytics               ███████████████░░░░░ 75%
+
+Power BI                     ██████████████░░░░░░ 70%
+
+Machine Learning             █████████░░░░░░░░░░░ 45%
+
+</td>
+
+<td width="45%" align="center" valign="middle">
+
+<br>
+
+<img src="./assets/girl-data-analyst.gif" width="400" alt="Girl working on laptop animation"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🐍%20PYTHON-6C5CE7?style=for-the-badge"/> <img src="https://img.shields.io/badge/🗄️%20SQL-A855F7?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/📊%20POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/📗%20EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/📈%20DATA%20ANALYTICS-EC4899?style=for-the-badge"/> <img src="https://img.shields.io/badge/💡%20BUSINESS%20INSIGHTS-6C5CE7?style=for-the-badge"/>
+
+</td> </tr> </table>
+
+<div align="center">
 
 📊 MY DATA ANALYTICS UNIVERSE
 
@@ -427,7 +543,39 @@ Recommendations
 
 </tr> </table>
 
+🔄 My Analytics Workflow
 
+<div align="center">
+
+                    ┌─────────────────┐
+                    │   📂 RAW DATA   │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ 🧹 DATA CLEANING│
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ 🐍 PYTHON / EDA │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ 🗄️ SQL ANALYSIS │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ 📊 POWER BI     │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ 💡 INSIGHTS     │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ 🚀 DECISIONS    │
+                    └─────────────────┘
+
+</div>
 
 🛠️ Tech Stack
 
@@ -535,8 +683,97 @@ Data Analysis
 
 </div>
 
+🎯 2026 Mission
 
+<table> <tr> <td width="50%" valign="top">
 
+✅ Completed
+
+🐍 Python Fundamentals
+
+🗄️ SQL & MySQL
+
+🛒 E-Commerce Analytics
+
+📊 Power BI Dashboard
+
+👥 HR Employee Analytics
+
+🏦 Bank Customer Churn
+
+🌐 Personal Portfolio
+
+</td>
+
+<td width="50%" valign="top">
+
+🚀 In Progress
+
+📊 More Data Analytics Projects
+
+🗄️ Advanced SQL
+
+🐍 Advanced Python
+
+🤖 Machine Learning
+
+💼 Data Analyst Internship
+
+🌍 Open Source Contributions
+
+</td> </tr> </table>
+
+💼 What I'm Looking For
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C5CE7&center=true&vCenter=true&width=750&lines=Open+to+Data+Analyst+Opportunities;Open+to+Business+Intelligence+Opportunities;Ready+to+Work+with+Real-World+Data;Ready+to+Learn%2C+Build+%26+Grow+%F0%9F%9A%80" alt="Career Animation"/>
+
+</div>
+
+<br>
+
+<table> <tr> <td align="center">
+
+📊
+
+Data Analysis
+
+</td>
+
+<td align="center">
+
+📈
+
+Dashboards
+
+</td>
+
+<td align="center">
+
+🗄️
+
+SQL
+
+</td>
+
+<td align="center">
+
+🐍
+
+Python
+
+</td>
+
+<td align="center">
+
+💡
+
+Business Insights
+
+</td>
+
+</tr> </table>
 
 🌐 Connect With Me
 
@@ -556,6 +793,17 @@ Data Analysis
 
 <div align="center">
 
+╔══════════════════════════════════════════════╗
+║                                              ║
+║       💜 LET'S CONNECT & BUILD TOGETHER      ║
+║                                              ║
+║       📊 Data Analytics                      ║
+║       📈 Business Intelligence               ║
+║       🐍 Python                              ║
+║       🗄️ SQL                                 ║
+║       📊 Power BI                            ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 
 </div>
 
